@@ -19,10 +19,10 @@ Verify if it's already installed using the following command in the cmd command 
 If not, please install the recommended version.
 * [Node](https://nodejs.org/es/)
 
-Follow the documentation for it's installation.
+Follow the documentation for its installation.
 * [Flutter](https://flutter.dev/docs/get-started/install)
 
-Follow the documentation for it's installation.
+Follow the documentation for its installation.
 * [Android Studio](https://developer.android.com/studio)
 
 
