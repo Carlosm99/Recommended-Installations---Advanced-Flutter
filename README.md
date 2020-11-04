@@ -6,6 +6,10 @@ I recommend you guys create a Github account. Very important!
 ## Necessary tools
 * [Google Chrome](https://www.google.com/chrome/)
 
+
+
+
+
 Start by installing this tool.
 * [Visual Studio Code](https://code.visualstudio.com/)
 
