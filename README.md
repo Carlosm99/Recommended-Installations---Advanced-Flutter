@@ -10,7 +10,7 @@ I recommend you guys create a Github account. Very important!
 
 
 
-Start by installing this tool.
+## Start by installing Visual Studio Code.
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 This tool can be installed later! Keep in mind it's very important.
