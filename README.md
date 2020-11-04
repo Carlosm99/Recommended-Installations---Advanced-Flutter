@@ -20,7 +20,7 @@ This tool (Git) can be installed later! Keep in mind it's very important.
 git config --global user.name "Tu nombre"
 git config --global user.email "Tu correo"
 ```
-Verify if it's already installed using the following command in the cmd command prompt terminal.
+Verify if it's already installed, using the following command in the cmd command prompt terminal.
 `node --version`
 If not, please install the recommended version.
 * [Node](https://nodejs.org/es/)
