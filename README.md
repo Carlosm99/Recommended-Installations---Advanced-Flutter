@@ -23,7 +23,7 @@ Follow the documentation for it's installation.
 * [Flutter](https://flutter.dev/docs/get-started/install)
 
 Follow the documentation for it's installation.
-* Android Emulator (iOS Emulator si es posible)
+* Android Emulator 
 
 
 ## VSCode extensions
