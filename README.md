@@ -1,6 +1,7 @@
 # Recommended-Installations---Advanced-Flutter
 This is a guide for the required tools needed for the project! 
-
+I recommend you guys create a Github account also very important!  
+[Github](https://github.com/)
 ## Necessary tools
 * [Google Chrome](https://www.google.com/chrome/)
 
