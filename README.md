@@ -3,6 +3,7 @@ This is a guide for the required tools needed for the project!
 
 ## Necessary tools
 * [Google Chrome](https://www.google.com/chrome/)
+
 Start by installing this tool.
 * [Visual Studio Code](https://code.visualstudio.com/)
 
