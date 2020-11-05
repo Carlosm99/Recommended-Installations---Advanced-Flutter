@@ -23,7 +23,6 @@ git config --global user.email "Your email"
 Verify if it's already installed, using the following command in the cmd command prompt terminal.
 `node --version`
 If not, please install the recommended version.
-![command in terminal](https://www.google.com/search?q=node+--+version&rlz=1C1CHBF_enMX887MX887&sxsrf=ALeKk02n-T-iO9AzpK-o89MJ4cevxSbScA:1604534495549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM4IvljOrsAhVGwFkKHTMXDesQ_AUoAnoECAQQBA&biw=1366&bih=600#imgrc=WwwSTIIxnOFWkM)
 * [Node](https://nodejs.org/es/)
 
 Follow the documentation for its installation.
