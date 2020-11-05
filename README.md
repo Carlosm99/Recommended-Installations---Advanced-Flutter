@@ -17,8 +17,8 @@ This tool (Git) can be installed later! Keep in mind it's very important.
 * [Git](https://git-scm.com/)
 
 ```
-git config --global user.name "Tu nombre"
-git config --global user.email "Tu correo"
+git config --global user.name "Your name"
+git config --global user.email "Your email"
 ```
 Verify if it's already installed, using the following command in the cmd command prompt terminal.
 `node --version`
